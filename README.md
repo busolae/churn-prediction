@@ -25,12 +25,18 @@ Compared models with and without feature selection to see improvement.
 
 # 🚀 How to Run the Project
 1️⃣ Clone the Repository
+```sg
 git clone https://github.com/yourusername/churn-prediction.git
 cd churn-prediction
+```
 2️⃣ Install Dependencies
+```sh
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 3️⃣ Run the Python Script
+```sh
 python ChurnPrediction.py
+```
 
 # 📈 Results
 Best Model: Random Forest (Achieved 85% accuracy) (Adjust based on your actual results)
